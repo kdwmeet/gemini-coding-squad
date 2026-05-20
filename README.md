@@ -32,3 +32,5 @@
 3. Reviewer 노드: 요구사항 충족률을 검증하고 Pydantic 구조화 출력을 통해 PASS 혹은 FAIL 결정을 내립니다. FAIL이 선언될 경우 제어권이 다시 Coder 노드로 넘어가며, PASS가 선언될 때까지 이 루프가 완벽히 자율적으로 동기화되어 반복됩니다.
 
 # 실행 화면
+
+<img width="1567" height="1097" alt="스크린샷 2026-05-20 131339" src="https://github.com/user-attachments/assets/b3b1d1a2-9d80-489e-a582-bb7a5dfae2e6" />
